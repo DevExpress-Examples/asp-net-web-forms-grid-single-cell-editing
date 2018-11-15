@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Template.cs](./CS/TestGridViewSite81/App_Code/Template.cs) (VB: [Template.vb](./VB/TestGridViewSite81/App_Code/Template.vb))
+* [Default.aspx](./CS/TestGridViewSite81/Default.aspx) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
+* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
+<!-- default file list end -->
 # How to implement a single cell editing feature in the ASPxGridView
 
 
