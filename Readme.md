@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to implement a single cell edit feature
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128540907/)**
-<!-- run online end -->
 
 This example demonstrates how to edit a grid cell in batch mode and update the data source on a callback.
 
